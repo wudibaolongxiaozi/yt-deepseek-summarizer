@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Output files (user data)
+*.txt
+*.html
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Playwright
+playwright-report/
