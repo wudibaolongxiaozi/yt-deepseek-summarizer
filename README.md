@@ -15,7 +15,7 @@ YouTube URL
 ## 安装
 
 ```bash
-git clone https://github.com/LLMPriceCheck/yt-deepseek-summarizer.git
+git clone https://github.com/wudibaolongxiaozi/yt-deepseek-summarizer.git
 cd yt-deepseek-summarizer
 
 pip install -r requirements.txt
